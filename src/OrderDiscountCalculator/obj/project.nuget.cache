@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "x/5atcQwzfU=",
+  "success": true,
+  "projectFilePath": "C:\\Pankaj\\Codes\\Demos\\CalculateDiscount\\src\\OrderDiscountCalculator\\OrderDiscountCalculator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pshuk\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\11.0.0\\microsoft.bcl.asyncinterfaces.11.0.0.nupkg.sha512",
+    "C:\\Users\\pshuk\\.nuget\\packages\\microsoft.extensions.configuration\\11.0.0\\microsoft.extensions.configuration.11.0.0.nupkg.sha512",
+    "C:\\Users\\pshuk\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\11.0.0\\microsoft.extensions.configuration.abstractions.11.0.0.nupkg.sha512",
+    "C:\\Users\\pshuk\\.nuget\\packages\\microsoft.extensions.configuration.binder\\11.0.0\\microsoft.extensions.configuration.binder.11.0.0.nupkg.sha512",
+    "C:\\Users\\pshuk\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\11.0.0\\microsoft.extensions.configuration.fileextensions.11.0.0.nupkg.sha512",
+    "C:\\Users\\pshuk\\.nuget\\packages\\microsoft.extensions.configuration.json\\11.0.0\\microsoft.extensions.configuration.json.11.0.0.nupkg.sha512",
+    "C:\\Users\\pshuk\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\11.0.0\\microsoft.extensions.fileproviders.abstractions.11.0.0.nupkg.sha512",
+    "C:\\Users\\pshuk\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\11.0.0\\microsoft.extensions.fileproviders.physical.11.0.0.nupkg.sha512",
+    "C:\\Users\\pshuk\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\11.0.0\\microsoft.extensions.filesystemglobbing.11.0.0.nupkg.sha512",
+    "C:\\Users\\pshuk\\.nuget\\packages\\microsoft.extensions.primitives\\11.0.0\\microsoft.extensions.primitives.11.0.0.nupkg.sha512",
+    "C:\\Users\\pshuk\\.nuget\\packages\\system.buffers\\4.6.1\\system.buffers.4.6.1.nupkg.sha512",
+    "C:\\Users\\pshuk\\.nuget\\packages\\system.io.pipelines\\11.0.0\\system.io.pipelines.11.0.0.nupkg.sha512",
+    "C:\\Users\\pshuk\\.nuget\\packages\\system.memory\\4.6.3\\system.memory.4.6.3.nupkg.sha512",
+    "C:\\Users\\pshuk\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.1.2\\system.runtime.compilerservices.unsafe.6.1.2.nupkg.sha512",
+    "C:\\Users\\pshuk\\.nuget\\packages\\system.text.encodings.web\\11.0.0\\system.text.encodings.web.11.0.0.nupkg.sha512",
+    "C:\\Users\\pshuk\\.nuget\\packages\\system.text.json\\11.0.0\\system.text.json.11.0.0.nupkg.sha512",
+    "C:\\Users\\pshuk\\.nuget\\packages\\system.threading.tasks.extensions\\4.6.3\\system.threading.tasks.extensions.4.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
